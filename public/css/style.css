@@ -1,0 +1,10 @@
+.slider{
+    height: 800px;
+    background-size: cover;
+    width: 100%;                   /* <------ */
+    background-repeat:   no-repeat; 
+    background-position: center center; 
+} 
+.form{
+    height: 300px;
+}
